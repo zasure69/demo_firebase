@@ -1,0 +1,17 @@
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\firebase_db.exe.config
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\firebase_db.exe
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\firebase_db.pdb
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\FireSharp.dll
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\Newtonsoft.Json.dll
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\RestSharp.dll
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\Newtonsoft.Json.xml
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\bin\Debug\RestSharp.xml
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase_db.csproj.AssemblyReference.cache
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase_db.Properties.Resources.resources
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase_db.csproj.GenerateResource.cache
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase_db.csproj.CoreCompileInputs.cache
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase.F3E317EF.Up2Date
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase_db.exe
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase_db.pdb
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_db\firebase_db\obj\Debug\firebase_db.Form1.resources

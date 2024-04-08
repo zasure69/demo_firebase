@@ -21,3 +21,4 @@ C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_auth\firebase_au
 C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_auth\firebase_auth\obj\Debug\net8.0\firebase_auth.pdb
 C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_auth\firebase_auth\obj\Debug\net8.0\firebase_auth.genruntimeconfig.cache
 C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_auth\firebase_auth\obj\Debug\net8.0\ref\firebase_auth.dll
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_auth\firebase_auth\obj\Debug\net8.0\firebase_auth.sourcelink.json

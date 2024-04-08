@@ -17,3 +17,4 @@ C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_storage\firebase
 C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_storage\firebase_storage\obj\Debug\net8.0\firebase_storage.pdb
 C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_storage\firebase_storage\obj\Debug\net8.0\firebase_storage.genruntimeconfig.cache
 C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_storage\firebase_storage\obj\Debug\net8.0\ref\firebase_storage.dll
+C:\TLHT\HK2_2023-2024\LapTrinhMangCanBan\Demo_Firebase\firebase_storage\firebase_storage\obj\Debug\net8.0\firebase_storage.sourcelink.json

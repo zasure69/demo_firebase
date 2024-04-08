@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("firebase_auth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8ea200ef2460379a6edbf7d126f9a6e6d6deac")]
 [assembly: System.Reflection.AssemblyProductAttribute("firebase_auth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("firebase_auth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
